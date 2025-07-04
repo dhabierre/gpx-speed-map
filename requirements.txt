@@ -1,0 +1,6 @@
+argparse==1.4.0
+folium==0.20.0
+gpxpy==1.6.2
+numpy==2.2.6
+overpy==0.7
+requests==2.32.4
